@@ -4,4 +4,4 @@
 
 # Api ignore
 node_modules
-
+.env
