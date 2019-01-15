@@ -1,3 +1,7 @@
 # idea ignore
 \.idea
-.DS_Stone
+\.DS_Store
+
+# Api ignore
+node_modules
+
